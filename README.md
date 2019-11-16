@@ -12,3 +12,12 @@ This is an online school/college management(ERP) system.
  
  ## TODO ##
   - [ ] Bloom's level attainment
+
+ ## INSTRUCTIONS ##
+  1. Download NetBeans IDE
+  2. Download XAMPP
+  3. Download MySQL Drivers
+  4. Run XAMPP(MySQL default on port 3306, Apache)
+  5. Open phpMyAdmin and import the springschool.sql database from the project folder
+  6. Change the database URL in the project to the URL of the database
+  7. Run the project
